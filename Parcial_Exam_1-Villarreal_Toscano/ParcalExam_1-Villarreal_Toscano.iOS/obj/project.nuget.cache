@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hxzbmkYJWnRwOtiUBorIUJu+EaKKFolnTRxsrjLgF45m6qsQAKB9/oaVwYzq8ZzFnHrUVnc9/6nN+NnxroRKvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dylan\\source\\repos\\ParcalExam_1-Villarreal_Toscano\\ParcalExam_1-Villarreal_Toscano.iOS\\ParcalExam_1-Villarreal_Toscano.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dylan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dylan\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\dylan\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

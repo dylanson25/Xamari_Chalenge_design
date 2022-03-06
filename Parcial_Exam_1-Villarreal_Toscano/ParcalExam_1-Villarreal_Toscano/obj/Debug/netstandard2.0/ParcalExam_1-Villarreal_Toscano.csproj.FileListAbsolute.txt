@@ -1,0 +1,15 @@
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\bin\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.deps.json
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\bin\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.dll
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\bin\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.pdb
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.csproj.AssemblyReference.cache
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.AssemblyInfo.cs
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.dll
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\refint\ParcalExam_1-Villarreal_Toscano.dll
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ParcalExam_1-Villarreal_Toscano.pdb
+C:\Users\dylan\source\repos\ParcalExam_1-Villarreal_Toscano\ParcalExam_1-Villarreal_Toscano\obj\Debug\netstandard2.0\ref\ParcalExam_1-Villarreal_Toscano.dll
